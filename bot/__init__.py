@@ -1,0 +1,3 @@
+"""Telegram media bot package."""
+
+
