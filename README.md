@@ -24,3 +24,8 @@ python -m bot.main
 ```
 
 Если включена модерация (`MODERATION_ENABLED=true`), не забудьте указать `ADMIN_IDS`.
+
+Никнейм бота в телеграмме: @hackathon_enter_test_bot
+
+
+Актуальная ссылка: https://t.me/hackathon_enter_test_bot
